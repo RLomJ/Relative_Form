@@ -6,18 +6,20 @@ The plug-in allows the user to generate a set boundary condition, in which they 
 
 ## VR Rooms
 
-- **https://vr-room-lomeli.glitch.me/** 
+- **https://relative-form-vr-rlj.glitch.me** 
 - **...**
 
 ## Project Video
 
-- **Vimeo Link**
+- **https://vimeo.com/704005074**
 
 ## Intstallation instructions
 
-- **Step 1: Download the RHI/.py file** 
-- **Step 2: Install within Rhino** 
-- **Step 3: Create your very own forms**
+- **Step 1: Download the RHI file** 
+- **Step 2: Double-Click RHI file to install within Rhino**
+-   ** Note: Rhino should be closed prior to running RHI for easiest installation** 
+- **Step 3: New Command can be found within Rhino**
+- **Step 4: Enjoy making a plethora of spaces**
 
 
 # License
